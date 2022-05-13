@@ -1,2 +1,2 @@
-# bus_buddy
+# Bus Buddy
 Shark Tank Project Repo
