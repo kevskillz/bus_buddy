@@ -25,9 +25,9 @@ void loop() {
 
   MFRC522::PICC_Type piccType = rfid.PICC_GetType(rfid.uid.sak);
 
-  Serial.print(F("RFID Tag UID:"));
+  // Serial.print(F("RFID Tag UID:"));
   printHex(rfid.uid.uidByte, rfid.uid.size);
-  Serial.println("");
+  // Serial.println("");
 
   rfid.PICC_HaltA();
 }
