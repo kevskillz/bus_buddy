@@ -1,2 +1,2 @@
 # Bus Buddy
-Shark Tank Project Repo
+Bus Buddy Scan Handler... paired with repo : bus_buddy_app
